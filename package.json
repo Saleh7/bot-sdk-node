@@ -28,6 +28,7 @@
     "base64-arraybuffer": "^0.1.5",
     "cryptobox": "git+https://github.com/damirn/cryptobox.js.git",
     "follow-redirects": "^1.2.1",
+    "firebase-hackernews": "^0.1.0",
     "protocol-buffers": "^3.2.1",
     "uuid": "^3.0.1",
     "wire-webapp-proteus": "~3.0.3"
