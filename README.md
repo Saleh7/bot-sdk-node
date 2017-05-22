@@ -3,6 +3,7 @@
 This is a chat bot for [Wire™](https://wire.com) chat app, developed in Node.JS on top of [Wire Bot Node SDK](https://github.com/wireapp/bot-sdk-node)
 
 ## Examples
+Bot hackerNews: https://wire.com/b/hn
 
 ![Image hackerNews](http://i.imgur.com/4ILeBvg.gif)
 
